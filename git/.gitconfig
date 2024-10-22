@@ -1,0 +1,6 @@
+[include]
+	path = ~/.gitconfig.conf
+[core]
+	autocrlf = false
+[init]
+	defaultBranch = main

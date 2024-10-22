@@ -1,0 +1,1 @@
+command -v volta &> /dev/null && volta setup --quiet
